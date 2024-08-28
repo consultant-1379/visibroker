@@ -1,0 +1,33 @@
+# Compiled source #
+*.class
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+#InitlliJ Files
+*.iml
+.idea/*
+
+#NetBeans Files
+/root/nb-configuration.xml
+
+# Maven build files
+target
+reports
+# ARQ tests
+arq-perf
+
+# PMD
+.pmd
+
+#Generated files
+*.ser
+
+# Merge files
+*.orig
+
+# Sublime format files
+.editorconfig
+tmp/

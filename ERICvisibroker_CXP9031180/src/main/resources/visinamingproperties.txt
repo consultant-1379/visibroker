@@ -1,0 +1,5 @@
+INSTALLER_UI=silent
+USER_INSTALL_DIR=/opt/MicroFocus/VisiBroker
+USER_SHORTCUTS=/dev/null
+INSTALL_TYPE=VisiBroker
+VISI_SERVICES=VisiNaming
